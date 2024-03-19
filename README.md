@@ -31,7 +31,7 @@ We welcome contributions from everyone! If you have any suggestions, improvement
 If you have any questions or inquiries, please don't hesitate to reach out to us:
 
 - Email: info@villaauroraprivateresort.com
-- Phone: +1 123-456-7890
+- Phone: 09955185002
 
 ## License
 
