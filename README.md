@@ -1,6 +1,6 @@
 # Villa Aurora Private Resort
 
-![Villa Aurora Private Resort](https://example.com/resort-image.jpg)
+![Villa Aurora Private Resort](https://github.com/Adornadowilliam2/ResortVilla/blob/main/images/background.jpg?raw=true)
 
 Welcome to the Villa Aurora Private Resort! This repository contains all the information you need to know about our amazing resort located in a beautiful and serene environment. Whether you're looking for a relaxing getaway or an adventurous vacation, Villa Aurora has it all.
 
