@@ -17,7 +17,7 @@ Welcome to the Villa Aurora Private Resort! This repository contains all the inf
 
 To get started with Villa Aurora Private Resort, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/VillaAuroraPrivateResort.git`
+1. Clone this repository to your local machine using `git clone [https://github.com/VillaAuroraPrivateResort.git](https://github.com/Adornadowilliam2/ResortVilla.git)`
 2. Install the necessary dependencies by running `npm install`
 3. Customize the content and design to fit your needs
 4. Deploy the website to your preferred hosting platform
