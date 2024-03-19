@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 We hope you enjoy your stay at Villa Aurora Private Resort!
 
-![Villa Aurora Private Resort Logo](https://github.com/Adornadowilliam2/ResortVilla/blob/main/images/logo.jpg?raw=true)https://github.com/Adornadowilliam2/ResortVilla/blob/main/images/logo.jpg?raw=true
+[![Villa Aurora Private Resort Logo](https://github.com/Adornadowilliam2/ResortVilla/blob/main/images/logo.jpg?raw=true)
