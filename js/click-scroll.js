@@ -1,14 +1,12 @@
-//jquery-click-scroll
-//by syamsul'isul' Arifin
 
-var sectionArray = [1, 2, 3, 4, 5];
+let sectionArray = [1, 2, 3, 4, 5];
 
 $.each(sectionArray, function(index, value){
           
      $(document).scroll(function(){
-         var offsetSection = $('#' + 'section_' + value).offset().top - 0;
-         var docScroll = $(document).scrollTop();
-         var docScroll1 = docScroll + 1;
+         let offsetSection = $('#' + 'section_' + value).offset().top - 0;
+         let docScroll = $(document).scrollTop();
+         let docScroll1 = docScroll + 1;
          
         
          if ( docScroll1 >= offsetSection ){
@@ -21,7 +19,7 @@ $.each(sectionArray, function(index, value){
      });
     
     $('.click-scroll').eq(index).click(function(e){
-        var offsetClick = $('#' + 'section_' + value).offset().top - 0;
+        let offsetClick = $('#' + 'section_' + value).offset().top - 0;
         e.preventDefault();
         $('html, body').animate({
             'scrollTop':offsetClick
